@@ -1,0 +1,1 @@
+Dsget Group "CN=THDPUNE_IT_Printer_Access_Grp,OU=Groups,OU=SYP,OU=PUN,OU=IN,OU=IT,OU=THDI,DC=TCSTHDI,DC=com"  -members > THDusr_LAR-15-10-2014.xls 
